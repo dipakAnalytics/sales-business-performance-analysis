@@ -73,4 +73,4 @@ sales-business-performance-analysis/
 
 ## Author
 
-**Your Name** | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Dipak Patil** | [LinkedIn](https://www.linkedin.com/in/dipak-patil-a69603423/) | [GitHub](https://github.com/dipakAnalytics)
